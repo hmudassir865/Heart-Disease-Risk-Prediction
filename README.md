@@ -195,12 +195,10 @@ scikit-learn, xgboost, jupyter
 
 👨‍💻 **Mudassir Hussain**
 - Email: hmudassir865@gmail.com
-- [GitHub](https://github.com/hmudassir865)
-- [Kaggle](https://www.kaggle.com/hmudassir865)
-- [LinkedIn](https://www.linkedin.com/in/mudassirhussain8730/)
-- [X](https://x.com/hmudassir865)
+- Github: [GitHub](https://github.com/hmudassir865)
+- Kaggle: [Kaggle](https://www.kaggle.com/hmudassir865)
+- LinkeIn: [LinkedIn](https://www.linkedin.com/in/mudassir-hussain-877347207/)
 
-Built as part of the **DataScience and AI Mentorship Program** by Dr. Aamar.
 
 ---
 
